@@ -1,6 +1,10 @@
 h1 {
-    font-size: 75px;
+    font-size: large;
     color: black;
 }
 
+h2 {
+ font-size:medium;   
+ color: black
+}
 
